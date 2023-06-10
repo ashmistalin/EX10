@@ -113,3 +113,6 @@ Salary is:60000
 
 Process finished with exit code 0
 ```
+
+## RESULT:
+Thus the java program to get the specified output was created and the output is verifed.
