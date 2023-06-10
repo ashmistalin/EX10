@@ -1,5 +1,20 @@
 # Exercise 10
 
+## AIM:
+To write a java program that takes details from the parent class and executes the specified output.
+
+## PROCEDURE:
+1. Create a class called Member with instance variables for name, age, phone_number, address, and salary.
+2. Inside the Member class, define a method named printSalary() that prints the value of salary.
+3. Create a class called Employee that extends the Member class.
+4. Inside the Employee class, define a method named emp() that prints the department of the employee.
+5. Create a class called Manager that extends the Member class.
+6. Inside the Manager class, define a method named emp1() that prints the specialization of the manager.
+7. Create a class called Main.
+8. Inside the Main class, define the main() method.
+9. Inside the main() method, create an instance of the Employee class called e. Set the values for the member variables and call the emp() and printSalary() methods.
+10. Similarly, create an instance of the Manager class called m. Set the values for the member variables and call the emp1() and printSalary() methods.
+
 ## PROGRAM:
 ```
 public class Member {
